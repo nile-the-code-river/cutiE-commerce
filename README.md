@@ -18,6 +18,7 @@ concurrently
 ## Develpment Process Overview (Workflow)
 **[Front-end]**
 1. Set-ups
+npm install vite
 npm create vite@latest
 
 **[Back-end]**
